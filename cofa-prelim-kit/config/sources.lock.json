@@ -1,0 +1,98 @@
+[
+  {
+    "id": "superpowers",
+    "repository": "https://github.com/obra/superpowers",
+    "commit": "2ce8aa15d05bd57213e6f746f953aafb7ded7a8b",
+    "selected_paths": [
+      "skills/systematic-debugging",
+      "skills/verification-before-completion"
+    ],
+    "snapshot": "upstream/superpowers",
+    "mode": "passive-reference",
+    "fetched_at": "2026-10-30T05:26:21.872804+00:00",
+    "license_note": "See original LICENSE files in snapshot"
+  },
+  {
+    "id": "matt-pocock",
+    "repository": "https://github.com/mattpocock/skills",
+    "commit": "a496f5513d4a4cf889bc48e189e579f4b0bdf6aa",
+    "selected_paths": [
+      "skills/engineering",
+      "skills/productivity/handoff"
+    ],
+    "snapshot": "upstream/matt-pocock",
+    "mode": "passive-reference",
+    "fetched_at": "2026-10-30T05:26:22.006768+00:00",
+    "license_note": "See original LICENSE files in snapshot"
+  },
+  {
+    "id": "supabase",
+    "repository": "https://github.com/supabase/agent-skills",
+    "commit": "c9be0e931b7930f7d02126d04774d904c381e7d7",
+    "selected_paths": [
+      "skills"
+    ],
+    "snapshot": "upstream/supabase",
+    "mode": "passive-reference",
+    "fetched_at": "2026-10-30T05:26:22.102651+00:00",
+    "license_note": "See original LICENSE files in snapshot"
+  },
+  {
+    "id": "karpathy",
+    "repository": "https://github.com/multica-ai/andrej-karpathy-skills",
+    "commit": "2c606141936f1eeef17fa3043a72095b4765b9c2",
+    "selected_paths": [
+      "skills/karpathy-guidelines"
+    ],
+    "snapshot": "upstream/karpathy",
+    "mode": "passive-reference",
+    "fetched_at": "2026-10-30T05:26:22.155563+00:00",
+    "license_note": "MIT declared in SKILL frontmatter; no root license file"
+  },
+  {
+    "id": "ponytail",
+    "repository": "https://github.com/DietrichGebert/ponytail",
+    "commit": "96608e078b2d5ea607c5c3b8b5a54d1c1fba6846",
+    "selected_paths": [
+      "skills/ponytail",
+      "skills/ponytail-review",
+      "skills/ponytail-audit",
+      "skills/ponytail-debt"
+    ],
+    "snapshot": "upstream/ponytail",
+    "mode": "passive-reference",
+    "fetched_at": "2026-10-30T05:26:22.209953+00:00",
+    "license_note": "See original LICENSE files in snapshot"
+  },
+  {
+    "id": "caveman",
+    "repository": "https://github.com/JuliusBrussee/caveman",
+    "commit": "9b68f7ed12b05e7efaff18e65c5a3fc2849fd0a4",
+    "selected_paths": [
+      "skills/caveman",
+      "skills/caveman-review",
+      "skills/investigate-first",
+      "skills/lean-build",
+      "skills/surgical-patch",
+      "skills/safe-refactor",
+      "skills/verify-and-stop"
+    ],
+    "snapshot": "upstream/caveman",
+    "mode": "passive-reference",
+    "fetched_at": "2026-10-30T05:26:22.277002+00:00",
+    "license_note": "See original LICENSE files in snapshot"
+  },
+  {
+    "id": "code-simplifier",
+    "repository": "https://github.com/anthropics/claude-plugins-official",
+    "commit": "f8c5e7a1dcb71b10cb74586224b5401f3de5db28",
+    "selected_paths": [
+      "plugins/code-simplifier/agents",
+      "plugins/code-simplifier/LICENSE"
+    ],
+    "snapshot": "upstream/code-simplifier",
+    "mode": "passive-reference",
+    "fetched_at": "2026-10-30T05:26:22.328670+00:00",
+    "license_note": "See original LICENSE files in snapshot"
+  }
+]

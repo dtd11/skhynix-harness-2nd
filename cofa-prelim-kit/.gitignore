@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+.cofa/
+.cofa-kit/
+.venv*/
+node_modules/
+.env
+.env.*
+!.env.example
+dist/
+build/
+coverage/
+*.log

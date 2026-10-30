@@ -1,0 +1,2 @@
+# Preserve the exact bytes covered by bundle-lock.json across Windows/Linux clones.
+* -text

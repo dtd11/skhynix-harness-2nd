@@ -1,0 +1,4 @@
+The upstream skills/karpathy-guidelines/SKILL.md declares license: MIT.
+No repository-root LICENSE was supplied at the pinned revision.
+That declaration is retained verbatim. This is a third-party interpretation
+of Karpathy observations, not an official skill authored by Andrej Karpathy.
